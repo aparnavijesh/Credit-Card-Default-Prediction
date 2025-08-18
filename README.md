@@ -81,4 +81,5 @@ Achieved accuracy: 87.64%
 This research focused on predicting default payments among customers in Taiwan using various machine learning models. In this project, we explored multiple machine learning models to predict defaulters, with Random Forest emerging as the best-performing model after hyperparameter tuning. The model achieved a balanced trade-off between precision and recall, ensuring reliable predictions.
 
 Author
+
 Aparna P
